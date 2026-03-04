@@ -1,4 +1,4 @@
-# Halo, Saya [Nama Kamu]! 👋
+# Halo, Saya FILLA SETYANA JUNIOR! 👋
 
 ### 🚀 Fullstack Developer | Mobile & Game Dev | Graphic Designer
 
@@ -35,8 +35,8 @@
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=radical" alt="Statistik GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_KAMU]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fillasetyanajunior&show_icons=true&theme=radical" alt="Statistik GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillasetyanajunior&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
