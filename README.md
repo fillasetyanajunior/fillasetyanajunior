@@ -5,7 +5,7 @@
 ---
 
 ## 🐍 My GitHub Snake (Pacman)
-![github contribution grid snake animation](https://raw.githubusercontent.com/[USERNAME_KAMU]/[USERNAME_KAMU]/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/fillasetyanajunior/fillasetyanajunior/output/github-contribution-grid-snake.svg)
 
 ---
 
