@@ -47,3 +47,5 @@
 
 ---
 *Terakhir diperbarui: 2026*
+
+Power by Filla
