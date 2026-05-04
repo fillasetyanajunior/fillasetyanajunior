@@ -5,7 +5,33 @@
 ---
 
 ## 🐍 My GitHub Snake (Pacman)
-![snake animation](https://github.com/fillasetyanajunior/fillasetyanajunior/blob/output/github-contribution-grid-snake2.svg)
+
+<div align="center">
+  <svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Jalur Titik-titik -->
+    <circle cx="100" cy="50" r="3" fill="#fff" />
+    <circle cx="150" cy="50" r="3" fill="#fff" />
+    <circle cx="200" cy="50" r="3" fill="#fff" />
+    <circle cx="250" cy="50" r="3" fill="#fff" />
+    <circle cx="300" cy="50" r="3" fill="#fff" />
+
+    <!-- Pac-Man -->
+    <path d="M40,50 L70,20 A30,30 0 1,1 70,80 Z" fill="#FFFF00">
+      <animateTransform 
+        attributeName="transform" 
+        type="translate" 
+        from="0 0" 
+        to="350 0" 
+        dur="4s" 
+        repeatCount="indefinite" />
+      <animate 
+        attributeName="d" 
+        values="M40,50 L70,20 A30,30 0 1,1 70,80 Z;M40,50 L80,50 A30,30 0 1,1 80,51 Z;M40,50 L70,20 A30,30 0 1,1 70,80 Z" 
+        dur="0.5s" 
+        repeatCount="indefinite" />
+    </path>
+  </svg>
+</div>
 
 ---
 
