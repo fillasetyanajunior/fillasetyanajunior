@@ -6,11 +6,9 @@
 
 ## 🐍 My GitHub Snake (Pacman) 🎮 My Contribution Graph in Pac-Man Style
 
-[![Pac-man GitHub Readme](https://github-readme-activity-graph.vercel.app/graph?username=fillasetyanajunior&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## My GitHub Contributions
 
-<div align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/assets/pacman.gif" width="300" />
-</div>
+![Pacman](https://raw.githubusercontent.com/fillasetyanajunior/fillasetyanajunior/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🛠 Tech Stack
