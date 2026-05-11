@@ -9,7 +9,6 @@
 ## My GitHub Contributions
 
 ![Pacman](https://raw.githubusercontent.com/fillasetyanajunior/fillasetyanajunior/output/github-contribution-grid-snake.svg)
----
 
 ## 🛠 Tech Stack
 
