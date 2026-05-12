@@ -8,7 +8,7 @@
 
 ## My GitHub Contributions
 
-![Pacman](https://raw.githubusercontent.com/fillasetyanajunior/fillasetyanajunior/output/github-contribution-grid-snake.svg)
+![Pacman](https://raw.githubusercontent.com/fillasetyanajunior/fillasetyanajunior/output/github-contribution-grid-snake2.svg)
 
 ## 🛠 Tech Stack
 
