@@ -4,12 +4,6 @@
 
 ---
 
-## 🐍 My GitHub Snake (Pacman) 🎮 My Contribution Graph in Pac-Man Style
-
-## My GitHub Contributions
-
-![Pacman](https://raw.githubusercontent.com/fillasetyanajunior/fillasetyanajunior/output/github-contribution-grid-snake2.svg)
-
 ## 🛠 Tech Stack
 
 ### 🖥 Backend
